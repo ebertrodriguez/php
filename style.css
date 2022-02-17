@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    padding-top: 1px;
+    background-color: rgba(32, 32, 32, 0.507);
+}
